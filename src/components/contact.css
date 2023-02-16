@@ -1,0 +1,47 @@
+.leave{
+    color: rgb(140, 0, 84);
+    padding: 10px;
+}
+.mainbackground{
+    background-color: rgb(62, 138, 173);
+    height: 100vh;
+    width: 100%;
+    padding: 10px;
+}
+
+.btncolor{
+    background-color: rgb(140, 0, 84);
+}
+.secondbackground{
+    background-color:rgb(210, 202, 202);
+    height: 100%;
+    width: 100%;
+}
+
+.cbtn{
+    margin-right: 7%;
+    float: right;
+}
+.para{
+    font-size:x-large;
+}
+.paracolor{
+    color:rgb(140, 0, 84) ;
+}
+.iconcolor{
+    color: rgb(140, 0, 84);
+    font-size: xx-large;
+}
+.borderwhite{
+    border: 1px;
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.paracolor2{
+    color: grey;
+}
+.thirdbackground{
+    background-color: rgb(140, 0, 84);
+    padding: 10px;
+}

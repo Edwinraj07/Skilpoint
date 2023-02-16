@@ -1,0 +1,87 @@
+
+.back-botton{
+    background-color: rgb(140, 0, 84);
+    color: white;
+}
+
+.paracontent{
+    text-align: justify;
+}
+.about-backround{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/263/931/large_2x/pastel-multi-color-gradient-background-simple-form-and-blend-of-color-spaces-as-contemporary-background-graphic-free-photo.jpg");
+    background-size:auto; 
+    height: 100%;
+    width:100%;
+    padding-bottom: 30px;
+}
+
+.html{
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 5px black;
+    width: 200px;
+    height: 30px;
+   
+    
+}
+
+
+.html1{
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 5px black;
+    width: 200px;
+    height: 30px;
+    margin-top: 40px;
+}
+
+.html3{
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 5px black;
+    width: 200px;
+    height: 30px;
+    margin-top: 40px;
+}
+
+
+.html4{
+   
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 5px black;
+    width: 200px;
+    height: 30px;
+    margin-top: 40px;
+    background-color: rgb(140, 0, 84);
+    
+   
+}
+.html2{
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 5px black;
+    width: 200px;
+    height: 30px;
+    margin-top: 40px;
+}
+
+
+  @media only screen and (max-width: 600px) {
+    .html2{
+        margin-left: 80px;
+    }
+
+    .html1{
+        margin-left: 80px;
+    }
+
+    .html{
+        margin-left: 80px;
+        margin-top: 40px;
+    }
+    .html3{
+        margin-left: 80px;
+    }
+    
+  }
